@@ -6,5 +6,8 @@
 	position: absolute;
 	top: 1280px;
 	left: 1900px;
+}
 
+img {
+   max-width: 105%; 
 }
