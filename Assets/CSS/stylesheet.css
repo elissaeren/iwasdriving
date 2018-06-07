@@ -1,0 +1,10 @@
+#page-corner {
+	width: 5em;
+	height: 5em;
+	background: none;
+	z-index: 1;
+	position: absolute;
+	top: 1280px;
+	left: 1900px;
+
+}
